@@ -62,7 +62,6 @@ body{
  .circle.active {
    border-color: #2a9d8f
  }
- 
  .btn {
    background-color: #2a9d8f;
    color: #fff;
@@ -77,11 +76,9 @@ body{
  .btn:active {
    transform: scale(0.98);
  }
- 
  .btn:focus {
    outline: 0;
  }
- 
  .btn:disabled {
    background-color: #ccd5ae;
    cursor: not-allowed;
